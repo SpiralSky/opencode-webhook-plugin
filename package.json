@@ -1,0 +1,11 @@
+{
+  "name": "opencode-webhook-plugin",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./server": "./webhook-plugin.js"
+  },
+  "devDependencies": {
+    "@opencode-ai/plugin": "1.18.30"
+  }
+}
